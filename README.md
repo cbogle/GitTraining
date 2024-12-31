@@ -1,2 +1,2 @@
 # GitTraining
-Repository for my Coursera Git and GitHub course.
+This Repository is for my Coursera "Git and GitHub" course.
